@@ -1,0 +1,17 @@
+# requirements.txt
+
+python==3.11.12
+pip==23.2.1
+#server
+fastapi==0.110.0
+uvicorn==0.27.1
+python-multipart==0.0.6
+email-validator==2.1.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# client
+opencv-python==4.11.0
+PyQt5==5.15.10
+requests==2.32.54
+requests-toolbelt==1.0.0

@@ -1,0 +1,7 @@
+*__pycache__
+*.jpg
+*.png
+client/data/
+client/logs/
+client/videos/
+server/videos/
